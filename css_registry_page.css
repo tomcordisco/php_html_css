@@ -1,0 +1,44 @@
+body {
+	text-align: left;
+	background:rgb(205, 205, 205);
+}
+
+div {
+	font-family: Times New Roman;
+	font-size: 20px;
+	width: 260px;
+	margin: left;
+	background:rgb(187, 187, 187);
+	padding: 30px 20px;
+	border: 5px outset rgb(0, 0, 0);
+}
+
+h1 {
+	font-family: Times New Roman;
+	font-size: 35px;
+	margin-bottom: 25px;
+	background: rgb(187, 187, 187);
+	padding: 15px;
+}
+
+h4 {
+	margin-top: 120px;
+	font-size: 15px;
+	text-align: center;
+	background: rgb(187, 187, 187);
+	padding: 5px;
+}
+
+.input {
+	width: 250px;
+	font-family: Times New Roman;
+	font-size: 18px;
+	border: 2px outset rgb(0, 0, 0);
+}
+
+button {
+	width: 120px;
+	font-family: Times New Roman;
+	font-size: 15px;
+	border: 2px outset rgb(0, 0, 0);
+}
