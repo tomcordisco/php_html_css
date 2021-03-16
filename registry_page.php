@@ -26,6 +26,6 @@
         <input class="form" type="submit" value="Home">
     </form><br><br>
 
-<h4>Copyright © 2020 Cordisco's Company. All rights reserved. Contact: tom.cordisco2002@gmail.com</h4>
+<h4>Copyright © 2020 Cordisco's Company. All rights reserved.</h4>
 </body>
 </html>
